@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCard</string>
+    <string-array name="Positions">
+        <item>Employee</item>
+        <item>Manager</item>
+        <item>Trainee</item>
+    </string-array>
+</resources>
